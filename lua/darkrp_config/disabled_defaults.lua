@@ -55,6 +55,8 @@ DarkRP.disabledDefaults["jobs"] = {
 	["mayor"]     = false,
 	["medic"]     = false,
 	["mobboss"]   = false,
+	["hitman"]    = false,
+
 }
 
 /*---------------------------------------------------------------------------
@@ -150,6 +152,7 @@ set to true to disable
 ---------------------------------------------------------------------------*/
 DarkRP.disabledDefaults["hitmen"] = {
 	["mobboss"] = true,
+	["hitman"]  = false,
 }
 
 /*---------------------------------------------------------------------------

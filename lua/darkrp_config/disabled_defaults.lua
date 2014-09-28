@@ -149,7 +149,7 @@ Jobs that are hitmen
 set to true to disable
 ---------------------------------------------------------------------------*/
 DarkRP.disabledDefaults["hitmen"] = {
-	["mobboss"] = false,
+	["mobboss"] = true,
 }
 
 /*---------------------------------------------------------------------------
